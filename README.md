@@ -16,15 +16,11 @@ Here's how I fixed it
 
 1. [Download](https://raw.githubusercontent.com/rjyo/new-macbook-touchpad-fixer/master/new-macbook-touchpad-fixer.pdf) the PDF and print it on an A4 paper.
 
-![paper](https://raw.githubusercontent.com/rjyo/new-macbook-touchpad-fixer/master/images/paper.png)
-
-![step1](https://raw.githubusercontent.com/rjyo/new-macbook-touchpad-fixer/master/images/step1.jpg)
+![step0-1](https://raw.githubusercontent.com/rjyo/new-macbook-touchpad-fixer/master/images/step0-1.jpg)
 
 2. Use the paper to cut out whatever you like to use to cover the touchpad. I used a tape post-it which is 2.5cm wide.
 
-![step2](https://raw.githubusercontent.com/rjyo/new-macbook-touchpad-fixer/master/images/step2.jpg)
-
-![step3](https://raw.githubusercontent.com/rjyo/new-macbook-touchpad-fixer/master/images/step3.jpg)
+![step1-2](https://raw.githubusercontent.com/rjyo/new-macbook-touchpad-fixer/master/images/step2-3.jpg)
 
 ## WRAP UP
 
