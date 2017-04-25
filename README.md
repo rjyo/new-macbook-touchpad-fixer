@@ -1,6 +1,6 @@
 # NEW MACKBOOK TOUCHPAD FIXER
 
-The touchpad on my new Macbook is way too big to be useful. For example, Chome and Sketch will randomly be zoomed in just because my left thumb inattentionally rested on the touchpad.
+The touchpad on my new Macbook is way too big to be useful. For example, Chome and Sketch will randomly be zoomed in/out just because my left thumb inattentionally rested on the touchpad.
 
 When I googled, I found that I'm not alone.
 
@@ -24,5 +24,5 @@ Here's how I fixed it
 
 ## WRAP UP
 
-The touchpad can still sensor my touch even with the post-it on. But it seems the input signal is kind of weakened so even with my left thumb on, I can still do normal moving the scrolling without triggering the zoom.
+The touchpad can still sensor my touch even with the post-it on. But it seems the input signal is kind of weakened so even with my left thumb on, I can still do normal moving and scrolling without triggering the zoom.
 
